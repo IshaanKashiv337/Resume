@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "src": "/resume.pdf", "dest": "/resume.pdf" },
+    { "src": "/", "dest": "/resume.pdf" }
+  ]
+}
