@@ -1,6 +1,5 @@
 {
   "routes": [
-    { "src": "/Resume.pdf", "dest": "/Resume.pdf" },
-    { "src": "/", "dest": "/Resume.pdf" }
+    { "src": "/", "status": 302, "headers": { "Location": "/Resume.pdf" } }
   ]
 }
