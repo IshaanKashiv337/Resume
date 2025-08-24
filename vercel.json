@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/", "status": 302, "headers": { "Location": "/Resume.pdf" } }
+    { "src": "/", "status": 302, "headers": { "Location": "/New_resume.pdf" } }
   ]
 }
